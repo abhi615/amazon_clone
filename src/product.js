@@ -1,4 +1,3 @@
-import ClickAwayListener from "material-ui/internal/ClickAwayListener";
 import React from "react";
 import "./product.css";
 import { useStateValue } from "./StateProvider";

@@ -9,7 +9,7 @@ import { useStateValue } from "./StateProvider";
 
 function subtotal() {
   const history = useHistory();
-  const [{ basket }, dispatch] = useStateValue();
+  const [{ basket }] = useStateValue();
 
   return (
     <div class="subtotal">
