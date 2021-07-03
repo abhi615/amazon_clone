@@ -1,3 +1,4 @@
-[submodule "themes/amazon_clone"]
-path="themes/amazon_clone"
-url= https://github.com/abhi615/amazon_clone.git
+
+[submodule "amazon_clone"]
+	path = amazon_clone
+	url = https://github.com/abhi615/amazon_clone.git
