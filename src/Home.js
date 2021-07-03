@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 import "./Home.css";
-import  Product from './product';
+import Product from "./product";
 function Home() {
-    return (
-        <div className="home">
-            <div className="home_container">
-            <img
+  return (
+    <div className="home">
+      <div className="home_container">
+        <img
           className="home__image"
           src="https://m.media-amazon.com/images/I/612LVwrROPL._SX1500_.jpg"
           alt=""
@@ -52,8 +52,7 @@ function Home() {
         </div>
       </div>
     </div>
-
-    )
+  );
 }
 
-export default Home
+export default Home;
